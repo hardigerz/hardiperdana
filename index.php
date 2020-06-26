@@ -4,18 +4,18 @@ error_reporting(0)
 ?>
 <!DOCTYPE html>
 <html lang="en">
-<head><title>Eric Anthony</title>
+<head><title>Hardi Perdana</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="author" content="Eric Anthony">
-    <link rel="stylesheet" href="https://ericanthony.tech/assets_user/css/animate.css">
-    <link rel="stylesheet" href="https://ericanthony.tech/assets_user/css/flexslider.css">
-    <link rel="stylesheet" href="https://ericanthony.tech/assets_user/fonts/icomoon/style.css">
-    <link rel="stylesheet" href="https://ericanthony.tech/assets_user/css/bootstrap.css">
-    <link rel="stylesheet" href="https://ericanthony.tech/assets_user/css/style.css">
+    <meta name="author" content="Hardi Perdana">
+    <link rel="stylesheet" href="https://hardiperdana.tech/assets_user/css/animate.css">
+    <link rel="stylesheet" href="https://hardiperdana.tech/assets_user/css/flexslider.css">
+    <link rel="stylesheet" href="https://hardiperdana.tech/assets_user/fonts/icomoon/style.css">
+    <link rel="stylesheet" href="https://hardiperdana.tech/assets_user/css/bootstrap.css">
+    <link rel="stylesheet" href="https://hardiperdana.tech/assets_user/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700" rel="stylesheet">
-    <link rel="shortcut icon" href="https://ericanthony.tech/assets_user/logo.png"/>
+    <link rel="shortcut icon" href="https://hardiperdana.tech/assets_user/logo.png"/>
 </head>
 <body data-spy="scroll" data-target="#pb-navbar" data-offset="200">
 <nav class="navbar navbar-expand-lg site-navbar navbar-light bg-light" id="pb-navbar">
@@ -23,7 +23,7 @@ error_reporting(0)
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample09"
                 aria-controls="navbarsExample09" aria-expanded="false" aria-label="Toggle navigation"><span
                     class="navbar-toggler-icon"></span></button>
-        <a class="navbar-brand" href="#">Eric Anthony</a>
+        <a class="navbar-brand" href="#">Hardi Perdana</a>
         <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample09">
             <ul class="navbar-nav">
                 <li class="nav-item"><a class="nav-link" href="" data-go="#section-home">Home</a></li>
@@ -40,12 +40,13 @@ error_reporting(0)
          id="section-home" data-stellar-background-ratio="0.5">
     <div class="container">
         <div class="row intro-text align-items-center justify-content-center">
-            <div class="col-md-10 text-center"><h1 class="site-heading site-animate">Hello, I'm <strong>Hardi
-                        Perdana</strong></h1>
+            <div class="col-md-10 text-center">
+                <h1 class="site-heading site-animate">
+                    Hello, I'm <strong>Hardi Perdana</strong
+                </h1>
                 <p class="lead site-subheading mb-4 site-animate">An android developer currently working
-                    at <a
-                            target="_blank"
-                            href="http://www.thefusion.co.id">PT. Inovatif Digital Solusindo</a>.
+                    at <a target="_blank"
+                          href="http://www.thefusion.co.id">PT. Inovatif Digital Solusindo</a>.
                     I'm <?= date('Y') - 1994 ?> Years old with code enthusiasm</p>
                 <p><a href="#section-about" class="smoothscroll btn btn-primary px-4 py-3">More On Me</a></p></div>
         </div>
@@ -286,39 +287,30 @@ error_reporting(0)
             </div>
             <div class="col-md-6"><h2 class="mb-5">Education</h2>
                 <a href="http://www.smkimmanuel.sch.id" target="_blank">
-                    <div class="resume-item mb-4"><span class="date"><span class="icon-calendar"></span> July 2016 - March 2019</span>
-                        <h3>SMK Kristen Immanuel Pontianak</h3> <span class="school">Jurusan Teknologi Jaringan</span>
-                    </div>
-                </a>
-                <a href="https://purwadhika.com" target="_blank">
-                    <div class="resume-item mb-4"><span class="date"><span class="icon-calendar"></span> July 2019 - November 2019</span>
-                        <h3>Purwadhika, Startup and Coding School</h3> <span class="school">Web and mobile developer Job Connector Program</span>
-                    </div>
-                </a>
-                <a href="http://www.tarumanagara.ac.id" target="_blank">
-                    <div class="resume-item mb-4"><span class="date"><span class="icon-calendar"></span> Aug 2020 - Now </span>
-                        <h3>Universitas Tarumanegara</h3> <span class="school">Bachelor of Information Technology</span>
+                    <div class="resume-item mb-4"><span class="date"><span
+                                    class="icon-calendar"></span> 2011 - 2015</span>
+                        <h3>Bina Nusantara University</h3> <span class="school">Computer Science</span>
                     </div>
                 </a>
             </div>
             <div class="col-md-6"><h2 class="mb-5">Experience</h2>
                 <a href="https://thefusion.co.id" target="_blank">
-                    <div class="resume-item mb-4"><span class="date"><span class="icon-calendar"></span> April 2019 - August 2019</span>
-                        <h3>Backend Developer</h3>
-                        <p>Making CMS and RestAPI for android application</p><span
-                                class="school">PT Inovatif Digital Solusindo</span></div>
+                    <div class="resume-item mb-4"><span class="date"><span class="icon-calendar"></span> Oct 2018 - Now</span>
+                        <h3>Android Developer</h3>
+                        <!--                        <p>Making CMS and RestAPI for android application</p>-->
+                        <span class="school">PT Inovatif Digital Solusindo</span></div>
                 </a>
-                <a href="http://www.danamon.co.id" target="_blank">
-                    <div class="resume-item mb-4"><span class="date"><span class="icon-calendar"></span> Jan 2020 - Mar 2020 </span>
-                        <h3>HC Branding and Communication</h3>
-                        <p>Researcher analyst about virtual job fair, UX Researcher, UX Design, Frontend developer </p>
-                        <span
-                                class="school">PT Bank Danamon Indonesia, TBK</span></div>
+                <a href="https://www.hitachiconsulting.co.jp/english/" target="_blank">
+                    <div class="resume-item mb-4"><span class="date"><span class="icon-calendar"></span> Oct 2015 - Feb 2018</span>
+                        <h3>Technical Consultant</h3>
+                        <!--                        <p>Making CMS and RestAPI for android application</p>-->
+                        <span class="school">PT Hitachi Consuilting Indonesia</span></div>
                 </a>
-                <a href="http://www.halodoc.com" target="_blank">
-                    <div class="resume-item mb-4"><span class="date"><span class="icon-calendar"></span> Mar 2020 - Now </span>
-                        <h3>Senior Fullstack Developer</h3>
-                        <span class="school">Halodoc ID</span></div>
+                <a href="https://bca.co.id" target="_blank">
+                    <div class="resume-item mb-4"><span class="date"><span class="icon-calendar"></span> Mar 2014 - Mar 2015</span>
+                        <h3>Internship - Software Developer</h3>
+<!--                        <p>Making CMS and RestAPI for android application</p>-->
+                        <span class="school">PT Bank Central Asia, Tbk</span></div>
                 </a>
             </div>
         </div>
@@ -333,12 +325,14 @@ error_reporting(0)
             <div class="col-md-7 mb-5 mb-md-0">
                 <form class="site-form"><h3 class="mb-5">Get In Touch</h3>
                     <div class="form-group"><input type="text" class="form-control px-3 py-4" name="name" id="name"
-                                                   placeholder="Your Name"> <span id="nameerror"
-                                                                                  style="color: #ff5a37;display: none;">I dont know who you are if you don't fill this :(</span>
+                                                   placeholder="Your Name">
+                        <span id="nameerror"
+                              style="color: #ff5a37;display: none;">I dont know who you are if you don't fill this :(</span>
                     </div>
                     <div class="form-group"><input type="text" class="form-control px-3 py-4" name="email" id="email"
-                                                   placeholder="Your Email"> <span id="emailerror"
-                                                                                   style="color: #ff5a37;display: none;">How can i contact you if you don't entered the correct email :(</span>
+                                                   placeholder="Your Email">
+                        <span id="emailerror"
+                              style="color: #ff5a37;display: none;">How can i contact you if you don't entered the correct email :(</span>
                     </div>
                     <div class="form-group mb-5"><textarea class="form-control px-3 py-4" style="overflow: hidden;"
                                                            cols="30" name="message" id="message" rows="10"
@@ -352,8 +346,8 @@ error_reporting(0)
             <div class="col-md-5 pl-md-5"><h3 class="mb-5">My Contact Details</h3>
                 <ul class="site-contact-details">
                     <li><span class="text-uppercase"><i class="icon icon-envelope"></i> &nbsp; Email</span> <a
-                                href="mailto:ericanthonywu89@gmail.com" class="text-primary" target="_blank"
-                                rel="nofollow">ericanthonywu89@gmail.com</a></li>
+                                href="mailto:hardigerz@gmail.com" class="text-primary" target="_blank"
+                                rel="nofollow">hardigerz@gmail.com</a></li>
                     <?php
                     /*
                     <li><span class="text-uppercase"><i class="icon icon-whatsapp"></i> &nbsp; Whatsapp</span> <a
@@ -365,10 +359,7 @@ error_reporting(0)
                     */
                     ?>
                     <li><span class="text-uppercase"><i class="icon icon-telegram"></i> &nbsp; Telegram</span> <a
-                                href="https://t.me/EricAnthonywu/" rel="nofollow" target="_blank">Eric Anthony </a></li>
-                    <li><span class="text-uppercase"><img src="https://img.icons8.com/ios/50/000000/line-me.png"
-                                                          draggable="false" class="icon" width="17" height="17">&nbsp;Line ID</span>
-                        <a href="line://ti/p/ericyahoo" rel="nofollow" target="_blank">ericyahoo</a></li>
+                                href="https://t.me/hardiperdana/" rel="nofollow" target="_blank">Hardi Perdana </a></li>
                 </ul>
             </div>
         </div>
@@ -377,40 +368,35 @@ error_reporting(0)
 <footer class="site-footer">
     <div class="container">
         <div class="row mb-3">
-            <div class="col-md-12 text-center"><p><a href="https://linkedin.com/in/ericanthonywu/"
-                                                     target="_blank"
-                                                     class="social-item"><span class="icon-linkedin"></span></a> <a
-                            href="https://instagram.com/eric_anthony_wuu" target="_blank" class="social-item"><span
-                                class="icon-instagram2"></span></a></p></div>
+            <div class="col-md-12 text-center">
+                <p>
+                    <a href="https://www.linkedin.com/in/hardi-perdana-b4070068/"
+                       target="_blank"
+                       class="social-item"><span class="icon-linkedin"></span>
+                    </a>
+                    <a href="https://instagram.com/hardiperdana1094" target="_blank" class="social-item">
+                        <span class="icon-instagram2"></span>
+                    </a>
+                </p>
+            </div>
         </div>
-        <div class="row"><p class="col-12 text-center"> Copyright &copy; 2018 - <?= date('Y') ?> All rights
-                reserved </p></div>
+        <div class="row">
+            <p class="col-12 text-center">
+                Copyright &copy; 2020 - <?= date('Y') ?> All rights reserved
+            </p>
+        </div>
     </div>
 </footer>
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<script src="https://ericanthony.tech/assets_user/js/vendor/jquery.min.js"></script>
-<script src="https://ericanthony.tech/assets_user/js/vendor/popper.min.js"></script>
-<script src="https://ericanthony.tech/assets_user/js/vendor/bootstrap.min.js"></script>
-<script src="https://ericanthony.tech/assets_user/js/vendor/jquery.easing.1.3.js"></script>
-<script src="https://ericanthony.tech/assets_user/js/vendor/jquery.stellar.min.js"></script>
-<script src="https://ericanthony.tech/assets_user/js/vendor/jquery.waypoints.min.js"></script>
+<script src="https://hardiperdana.tech/assets_user/js/vendor/jquery.min.js"></script>
+<script src="https://hardiperdana.tech/assets_user/js/vendor/popper.min.js"></script>
+<script src="https://hardiperdana.tech/assets_user/js/vendor/bootstrap.min.js"></script>
+<script src="https://hardiperdana.tech/assets_user/js/vendor/jquery.easing.1.3.js"></script>
+<script src="https://hardiperdana.tech/assets_user/js/vendor/jquery.stellar.min.js"></script>
+<script src="https://hardiperdana.tech/assets_user/js/vendor/jquery.waypoints.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-<script src="https://ericanthony.tech/assets_user/js/custom.js"></script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150961132-1"></script>
-<script>
-    console.clear()
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-
-    gtag('js', new Date());
-
-    gtag('config', 'UA-150961132-1');
-</script>
-
+<script src="https://hardiperdana.tech/assets_user/js/custom.js"></script>
 </body>
 </html>
