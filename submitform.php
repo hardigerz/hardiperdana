@@ -2,7 +2,7 @@
 error_reporting(0);
 header($_SERVER["SERVER_PROTOCOL"]." 404 Not Found", true, 404);
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    mail('ericanthonywu89@gmail.com', "$_POST[name] asking for web application project! ($_POST[email])", $_POST['message']);
+    mail('hardigerz@gmail.com', "$_POST[name] asking for web application project! ($_POST[email])", $_POST['message']);
 }
 ?>
 

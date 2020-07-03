@@ -8,14 +8,14 @@ error_reporting(0)
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="author" content="Hardi Perdana">
-    <link rel="stylesheet" href="https://hardiperdana.tech/assets_user/css/animate.css">
-    <link rel="stylesheet" href="https://hardiperdana.tech/assets_user/css/flexslider.css">
-    <link rel="stylesheet" href="https://hardiperdana.tech/assets_user/fonts/icomoon/style.css">
-    <link rel="stylesheet" href="https://hardiperdana.tech/assets_user/css/bootstrap.css">
-    <link rel="stylesheet" href="https://hardiperdana.tech/assets_user/css/style.css">
+    <link rel="stylesheet" href="assets_user/css/animate.css">
+    <link rel="stylesheet" href="assets_user/css/flexslider.css">
+    <link rel="stylesheet" href="assets_user/fonts/icomoon/style.css">
+    <link rel="stylesheet" href="assets_user/css/bootstrap.css">
+    <link rel="stylesheet" href="assets_user/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700" rel="stylesheet">
-    <link rel="shortcut icon" href="https://hardiperdana.tech/assets_user/logo.png"/>
+    <link rel="shortcut icon" href="assets_user/logo.png"/>
 </head>
 <body data-spy="scroll" data-target="#pb-navbar" data-offset="200">
 <nav class="navbar navbar-expand-lg site-navbar navbar-light bg-light" id="pb-navbar">
@@ -55,14 +55,14 @@ error_reporting(0)
 <section class="site-section" id="section-about">
     <div class="container">
         <div class="row mb-5 align-items-center">
-            <div class="col-lg-7 pr-lg-5 mb-5 mb-lg-0"><img src="assets_user/images/me.jpeg" style="width: 80%"
+            <div class="col-lg-7 pr-lg-5 mb-5 mb-lg-0"><img src="assets_user/images/fotoprofile.jpeg" style="width: 80%"
                                                             alt="Image placeholder"
                                                             class="img-fluid"></div>
             <div class="col-lg-5 pl-lg-5">
                 <div class="section-heading"><h2>About <strong>Me</strong></h2></div>
                 <p class="lead">I'm <?= date('Y') - 1994 ?> Years old. I
                     have <?= date('Y') - 2016 ?> years experiences in IT Industry </p>
-                <p class="mb-5 "> Hi! I'm a Mobile developer with <?= date('Y') - 2018 ?> also I have experience in
+                <p class="mb-5 "> Hi! I'm a Mobile developer with <?= date('Y') - 2018 ?> year experience also I have experience in
                     banking industry and IT consultant firm for <?= date('Y') - 2015 ?>. I'm a Hard-worker, dicipline,
                     truthful, easy-going, have a high responsibility in what I'm doing, and also can work for team.
                 </p>
@@ -145,134 +145,116 @@ error_reporting(0)
         <div class="filters">
             <ul>
                 <li class="active" data-filter="*">All</li>
-                <li data-filter=".cms">Content Management System with Rest API</li>
-                <li data-filter=".webapp">Web Application</li>
-                <li data-filter=".compro">Company Profile</li>
-                <li data-filter=".mobile">Fullstack Mobile</li>
+<!--                <li data-filter=".cms">Content Management System with Rest API</li>-->
+<!--                <li data-filter=".webapp">Web Application</li>-->
+<!--                <li data-filter=".compro">Company Profile</li>-->
+<!--                <li data-filter=".mobile">Fullstack Mobile</li>-->
             </ul>
         </div>
         <div class="filters-content">
             <div class="row grid">
-                <div class="single-portfolio col-sm-4 all compro">
+                <div class="single-portfolio col-sm-4 all">
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
                             <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
-                                        class="image img-fluid" src="assets_user/porto/1.JPG" alt=""></a></div>
+                                        class="image img-fluid" src="assets_user/porto/7quebiz.png" alt=""></a></div>
                     </div>
-                    <div class="p-inner"><h4>TheFusion's Company Profile with Content Management System</h4>
-                        <div class="cat">Company Profile</div>
-                    </div>
-                </div>
-                <div class="single-portfolio col-sm-4 all cms">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <a href="assets_user/porto/2.JPG" title="Click for more info!" target="_blank"> <img
-                                        class="image img-fluid" src="assets_user/porto/2.JPG" alt=""> </a></div>
-                    </div>
-                    <div class="p-inner"><h4>Keraton's Rest API with CMS</h4>
-                        <div class="cat">Content Management System with Rest API</div>
-                    </div>
-                </div>
-                <div class="single-portfolio col-sm-4 all webapp">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <a>
-                                <video controls class="image img-fluid">
-                                    <source src="portofolio/procurement.mp4" type="video/mp4">
-                                </video>
-                            </a></div>
-                    </div>
-                    <div class="p-inner"><h4>Procurement, Marketplace's admin web application with Raja Ongkir API</h4>
-                        <div class="cat">Content Management System Web Application</div>
-                    </div>
-                </div>
-                <div class="single-portfolio col-sm-4 all webapp">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <a>
-                                <video controls class="image img-fluid">
-                                    <source src="portofolio/uh_shop.mp4" type="video/mp4">
-                                </video>
-                            </a></div>
-                    </div>
-                    <div class="p-inner"><h4>Eccomerce with inventory web application as CMS</h4>
-                        <div class="cat">Eccomerce with inventory</div>
-                    </div>
-                </div>
-                <div class="single-portfolio col-sm-4 all webapp">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <a href="assets_user/porto/sosmed.png" target="_blank" title="Click for more info!"><img
-                                        class="image img-fluid" src="assets_user/porto/sosmed.png" alt=""></a></div>
-                    </div>
-                    <div class="p-inner"><h4>Sosial Media</h4>
-                        <div class="cat">
-                            <div style="text-align: left;color:black">
-                                Instagram Clone with :
-                                <ul style="padding-left: 0">
-                                    <li>Realtime Chat and Realtime Notifications using Socket IO</li>
-                                    <li>Google emoticons for comment, chat and post's caption using emoji-market</li>
-                                    <li>Searching with Elastic search</li>
-                                    <li>Backend with Express JS</li>
-                                    <li>Frontend Using React</li>
-                                    <li>Tag people with autocomplete as well</li>
-                                </ul>
-                            </div>
-                            Source code: <a href="https://github.com/ericanthonywu/TA-Purwadhika">My GitHub</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="single-portfolio col-sm-4 all compro">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <a href="https://pt-perkebunan-sumut.co.id/" target="_blank"
-                               title="Click for more info!"><img
-                                        class="image img-fluid" src="assets_user/porto/sumut.png" alt=""></a></div>
-                    </div>
-                    <div class="p-inner"><h4>PT. Perkebunan Sumut's company profile with Content Management System</h4>
+                    <div class="p-inner"><h4>7Queue project</h4>
                         <div class="cat">
                             Company profile with CMS using laravel and jquery
                         </div>
                     </div>
                 </div>
-                <div class="single-portfolio col-sm-4 all cms">
+                <div class="single-portfolio col-sm-4 all">
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
-                            <a href="https://7queue.net" title="Click for more info!" target="_blank"> <img
-                                        class="image img-fluid" src="assets_user/porto/7queue.png" alt=""> </a></div>
+                            <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
+                                        class="image img-fluid" src="assets_user/porto/7queque.png" alt=""></a></div>
                     </div>
-                    <div class="p-inner"><h4>7Queue's Rest API with CMS</h4>
-                        <div class="cat">Content Management System with Rest API</div>
+                    <div class="p-inner"><h4>7Queue project</h4>
+                        <div class="cat">
+                            Company profile with CMS using laravel and jquery
+                        </div>
                     </div>
                 </div>
-                <div class="single-portfolio col-sm-4 all mobile">
+                <div class="single-portfolio col-sm-4 all">
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
-                            <a href="https://play.google.com/store/apps/details?id=com.jargas&hl=in"
-                               title="Click for more info!" target="_blank"> <img
-                                        class="image img-fluid" src="assets_user/porto/jargas.jpg" alt=""> </a></div>
+                            <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
+                                        class="image img-fluid" src="assets_user/porto/arsdesktop.png" alt=""></a></div>
                     </div>
-                    <div class="p-inner"><h4>PGN's internal Application</h4>
-                        <div class="cat">Mobile Application for Surveying</div>
+                    <div class="p-inner"><h4>Ars project</h4>
+                        <div class="cat">
+                            Company profile with CMS using laravel and jquery
+                        </div>
                     </div>
                 </div>
-                <div class="single-portfolio col-sm-4 all mobile">
+                <div class="single-portfolio col-sm-4 all">
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
-                            <a href="http://tailandtale.com" title="Click for more info!" target="_blank"> <img
-                                        class="image img-fluid" src="assets_user/porto/TNT.jpg" alt=""> </a></div>
+                            <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
+                                        class="image img-fluid" src="assets_user/porto/GapuraRentals.jpeg" alt=""></a></div>
                     </div>
-                    <div class="p-inner"><h4>Tail and Tales application</h4>
-                        <div class="cat">Booking system for vet and user with realtime chat using socket IO</div>
+                    <div class="p-inner"><h4>Gapura Rental project</h4>
+                        <div class="cat">
+                            Company profile with CMS using laravel and jquery
+                        </div>
+                    </div>
+                </div>
+                <div class="single-portfolio col-sm-4 all">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
+                                        class="image img-fluid" src="assets_user/porto/gvo.jpeg" alt=""></a></div>
+                    </div>
+                    <div class="p-inner"><h4>Gapura Virtual Office project</h4>
+                        <div class="cat">
+                            Company profile with CMS using laravel and jquery
+                        </div>
+                    </div>
+                </div>
+                <div class="single-portfolio col-sm-4 all">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
+                                        class="image img-fluid" src="assets_user/porto/keraton.png" alt=""></a></div>
+                    </div>
+                    <div class="p-inner"><h4>keraton project</h4>
+                        <div class="cat">
+                            Company profile with CMS using laravel and jquery
+                        </div>
+                    </div>
+                </div>
+                <div class="single-portfolio col-sm-4 all">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
+                                        class="image img-fluid" src="assets_user/porto/Seacon%20Logistic.jpeg" alt=""></a></div>
+                    </div>
+                    <div class="p-inner"><h4>Seacon Logistic project</h4>
+                        <div class="cat">
+                            Company profile with CMS using laravel and jquery
+                        </div>
+                    </div>
+                </div>
+                <div class="single-portfolio col-sm-4 all">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
+                                        class="image img-fluid" src="assets_user/porto/SimpleQR.jpeg" alt=""></a></div>
+                    </div>
+                    <div class="p-inner"><h4>Simple QR project</h4>
+                        <div class="cat">
+                            Company profile with CMS using laravel and jquery
+                        </div>
                     </div>
                 </div>
             </div>
@@ -388,15 +370,15 @@ error_reporting(0)
     </div>
 </footer>
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<script src="https://hardiperdana.tech/assets_user/js/vendor/jquery.min.js"></script>
-<script src="https://hardiperdana.tech/assets_user/js/vendor/popper.min.js"></script>
-<script src="https://hardiperdana.tech/assets_user/js/vendor/bootstrap.min.js"></script>
-<script src="https://hardiperdana.tech/assets_user/js/vendor/jquery.easing.1.3.js"></script>
-<script src="https://hardiperdana.tech/assets_user/js/vendor/jquery.stellar.min.js"></script>
-<script src="https://hardiperdana.tech/assets_user/js/vendor/jquery.waypoints.min.js"></script>
+<script src="assets_user/js/vendor/jquery.min.js"></script>
+<script src="assets_user/js/vendor/popper.min.js"></script>
+<script src="assets_user/js/vendor/bootstrap.min.js"></script>
+<script src="assets_user/js/vendor/jquery.easing.1.3.js"></script>
+<script src="assets_user/js/vendor/jquery.stellar.min.js"></script>
+<script src="assets_user/js/vendor/jquery.waypoints.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-<script src="https://hardiperdana.tech/assets_user/js/custom.js"></script>
+<script src="assets_user/js/custom.js"></script>
 </body>
 </html>
