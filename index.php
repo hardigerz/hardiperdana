@@ -160,9 +160,9 @@ error_reporting(0)
                             <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
                                         class="image img-fluid" src="assets_user/porto/7quebiz.png" alt=""></a></div>
                     </div>
-                    <div class="p-inner"><h4>7Queue project</h4>
+                    <div class="p-inner"><h4>7Quebiz project</h4>
                         <div class="cat">
-                            Company profile with CMS using laravel and jquery
+                            Sebuah Apps tentang aplikasi antiran menu Restaurant dan report untuk merchant yang saya kerjakan untuk client dari kantor saya khusus untuk digunakan di tab
                         </div>
                     </div>
                 </div>
@@ -175,7 +175,7 @@ error_reporting(0)
                     </div>
                     <div class="p-inner"><h4>7Queue project</h4>
                         <div class="cat">
-                            Company profile with CMS using laravel and jquery
+                            Sebuah Apps tentang aplikasi merchnat Restaurant serta promo dari restaruran yang saya kerjakan untuk client dari kantor saya
                         </div>
                     </div>
                 </div>
@@ -188,7 +188,7 @@ error_reporting(0)
                     </div>
                     <div class="p-inner"><h4>Ars project</h4>
                         <div class="cat">
-                            Company profile with CMS using laravel and jquery
+                           Sebuah Apps tentang akses kampus mahasiswa dan pendaftaran mahasiswa baru juga untuk kampus ARS Univeristy
                         </div>
                     </div>
                 </div>
@@ -201,7 +201,7 @@ error_reporting(0)
                     </div>
                     <div class="p-inner"><h4>Gapura Rental project</h4>
                         <div class="cat">
-                            Company profile with CMS using laravel and jquery
+                            Sebuah Apps yang berfungsi untuk membantu user yang ingin melakukan penyewaan mobil untuk melihat km/tersisa masa berlaku dan saldo yang dimiliki.
                         </div>
                     </div>
                 </div>
@@ -214,7 +214,7 @@ error_reporting(0)
                     </div>
                     <div class="p-inner"><h4>Gapura Virtual Office project</h4>
                         <div class="cat">
-                            Company profile with CMS using laravel and jquery
+                            Sebuah Apps yang berfungsi untuk membantu Perusahaan memudahkan proses pembuatan dan pendaftaran PT,CV dan sebagainya untuk user secara online dan bisa ditracking progressnya
                         </div>
                     </div>
                 </div>
@@ -225,9 +225,9 @@ error_reporting(0)
                             <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
                                         class="image img-fluid" src="assets_user/porto/keraton.png" alt=""></a></div>
                     </div>
-                    <div class="p-inner"><h4>keraton project</h4>
+                    <div class="p-inner"><h4>Keraton Project</h4>
                         <div class="cat">
-                            Company profile with CMS using laravel and jquery
+                            Sebuah Apps tentang penjualan property dan melihat unit yang tersedia dan melakukan pemesanan melalui apps dari sebuah agen property.
                         </div>
                     </div>
                 </div>
@@ -240,7 +240,7 @@ error_reporting(0)
                     </div>
                     <div class="p-inner"><h4>Seacon Logistic project</h4>
                         <div class="cat">
-                            Company profile with CMS using laravel and jquery
+                            Sebuah Apps yang berfungsi untuk membantu sebuah perusahaan logistik untuk tracking internal paket logistik telah sampai dimana.
                         </div>
                     </div>
                 </div>
@@ -253,7 +253,7 @@ error_reporting(0)
                     </div>
                     <div class="p-inner"><h4>Simple QR project</h4>
                         <div class="cat">
-                            Company profile with CMS using laravel and jquery
+                            Sebuah Apps pertama yang saya buat yang hanya berfungsi untuk scanQR code dengan Zxing Library as thhird party sebagai pembelajaran pertama saya membuat sebuah aplikasi sederhana dan mempublishnya ke playstore
                         </div>
                     </div>
                 </div>
