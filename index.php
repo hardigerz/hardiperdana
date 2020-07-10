@@ -15,7 +15,7 @@ error_reporting(0)
     <link rel="stylesheet" href="assets_user/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700" rel="stylesheet">
-    <link rel="shortcut icon" href="assets_user/logo.png"/>
+    <link rel="shortcut icon" href="assets_user/logo.jpg"/>
 </head>
 <body data-spy="scroll" data-target="#pb-navbar" data-offset="200">
 <nav class="navbar navbar-expand-lg site-navbar navbar-light bg-light" id="pb-navbar">
@@ -157,7 +157,7 @@ error_reporting(0)
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
-                            <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
+                            <a href="https://7queue.com/" target="_blank" title="Click for more info!"><img
                                         class="image img-fluid" src="assets_user/porto/7quebiz.png" alt=""></a></div>
                     </div>
                     <div class="p-inner"><h4>7Quebiz project</h4>
@@ -170,7 +170,7 @@ error_reporting(0)
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
-                            <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
+                            <a href="https://play.google.com/store/apps/details?id=com.sea.sevenqueue&hl=en" target="_blank" title="Click for more info!"><img
                                         class="image img-fluid" src="assets_user/porto/7queque.png" alt=""></a></div>
                     </div>
                     <div class="p-inner"><h4>7Queue project</h4>
@@ -183,7 +183,7 @@ error_reporting(0)
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
-                            <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
+                            <a href="http://ars.thefusion.co.id/" target="_blank" title="Click for more info!"><img
                                         class="image img-fluid" src="assets_user/porto/arsdesktop.png" alt=""></a></div>
                     </div>
                     <div class="p-inner"><h4>Ars project</h4>
@@ -196,7 +196,7 @@ error_reporting(0)
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
-                            <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
+                            <a href="https://play.google.com/store/apps/details?id=com.rental.gapura.gapurarental&hl=en" target="_blank" title="Click for more info!"><img
                                         class="image img-fluid" src="assets_user/porto/GapuraRentals.jpeg" alt=""></a></div>
                     </div>
                     <div class="p-inner"><h4>Gapura Rental project</h4>
@@ -209,7 +209,7 @@ error_reporting(0)
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
-                            <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
+                            <a href="https://play.google.com/store/apps/details?id=virtualofficeapp.gapura.com.gapuravirtualoffice&hl=en" target="_blank" title="Click for more info!"><img
                                         class="image img-fluid" src="assets_user/porto/gvo.jpeg" alt=""></a></div>
                     </div>
                     <div class="p-inner"><h4>Gapura Virtual Office project</h4>
@@ -222,7 +222,7 @@ error_reporting(0)
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
-                            <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
+                            <a href="http://keraton.net/" target="_blank" title="Click for more info!"><img
                                         class="image img-fluid" src="assets_user/porto/keraton.png" alt=""></a></div>
                     </div>
                     <div class="p-inner"><h4>Keraton Project</h4>
@@ -235,7 +235,7 @@ error_reporting(0)
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
-                            <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
+                            <a href="http://bit.ly/SeaconApp" target="_blank" title="Click for more info!"><img
                                         class="image img-fluid" src="assets_user/porto/Seacon%20Logistic.jpeg" alt=""></a></div>
                     </div>
                     <div class="p-inner"><h4>Seacon Logistic project</h4>
@@ -248,7 +248,7 @@ error_reporting(0)
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
-                            <a href="https://thefusion.co.id" target="_blank" title="Click for more info!"><img
+                            <a href="http://bit.ly/SimpleQRCode" target="_blank" title="Click for more info!"><img
                                         class="image img-fluid" src="assets_user/porto/SimpleQR.jpeg" alt=""></a></div>
                     </div>
                     <div class="p-inner"><h4>Simple QR project</h4>
