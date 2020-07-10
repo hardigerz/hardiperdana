@@ -330,15 +330,13 @@ error_reporting(0)
                     <li><span class="text-uppercase"><i class="icon icon-envelope"></i> &nbsp; Email</span> <a
                                 href="mailto:hardigerz@gmail.com" class="text-primary" target="_blank"
                                 rel="nofollow">hardigerz@gmail.com</a></li>
-                    <?php
-                    /*
                     <li><span class="text-uppercase"><i class="icon icon-whatsapp"></i> &nbsp; Whatsapp</span> <a
-                                href="https://api.whatsapp.com/send?phone=6281236391375" target="_blank" rel="nofollow"
-                                class="text-primary">+6281236391375</a></li>
-                    <li><span class="text-uppercase"><i class="icon icon-phone2"></i> &nbsp; Phone</span> <a
-                                href="tel:+6281236391375" target="_blank" rel="nofollow" class="text-primary">+6281236391375</a>
-                    </li>
-                    */
+                                href="https://api.whatsapp.com/send?phone=6285211416691" target="_blank" rel="nofollow"
+                                class="text-primary">+6285211416691</a></li>
+                    <?php
+//                    <li><span class="text-uppercase"><i class="icon icon-phone2"></i> &nbsp; Phone</span> <a
+//                                href="tel:+6281236391375" target="_blank" rel="nofollow" class="text-primary">+6281236391375</a>
+//                    </li>
                     ?>
                     <li><span class="text-uppercase"><i class="icon icon-telegram"></i> &nbsp; Telegram</span> <a
                                 href="https://t.me/hardiperdana/" rel="nofollow" target="_blank">Hardi Perdana </a></li>

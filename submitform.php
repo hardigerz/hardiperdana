@@ -1,5 +1,5 @@
 <?php
-error_reporting(0);
+//error_reporting(0);
 header($_SERVER["SERVER_PROTOCOL"]." 404 Not Found", true, 404);
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     mail('hardigerz@gmail.com', "$_POST[name] asking for web application project! ($_POST[email])", $_POST['message']);
@@ -21,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,700" rel="stylesheet">
 
     <!-- Custom stlylesheet -->
-    <link type="text/css" rel="stylesheet" href="https://ericanthony.tech/assets_404/css/style.css" />
+    <link type="text/css" rel="stylesheet" href="http://hardiperdana.tech/assets_404/css/style.css" />
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

@@ -3,9 +3,9 @@ RewriteEngine On
 ErrorDocument 404 /404.php
 ErrorDocument 403 /404.php
 RewriteCond %{SERVER_PORT} 80
-#RewriteRule ^(.*)$ localhost$1 [R,L]\
+RewriteRule ^(.*)$ http://hardiperdana.tech/$1 [RewriteRule,L]\
 RewriteRule ^404Error$ 404.php [L]
-#RewriteRule ^index.php$ 404.php [L]
+RewriteRule ^index.php$ 404.php [L]
 RewriteRule ^.htaccess$ 404.php [L]
 RewriteRule ^error_log$ 404.php [L]
 RewriteRule ^cpanel$ 404.php [L]
